@@ -1,6 +1,6 @@
 {
 	"ip":"hunt3rmon.aternos.me:55659",
 	"port": "55659",
-	"name": "Server bot",
-	"auto-night-skip":"false"
+	"name": "afkbot1",
+	"auto-night-skip":"true"
 }
